@@ -1,0 +1,23 @@
+{
+  "name": "servicesweb",
+  "version": "1.0.0",
+  "description": "labo01 du cours service web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PBeginDev/serviceWeb-labo01.git"
+  },
+  "author": "Pascal Begin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PBeginDev/serviceWeb-labo01/issues"
+  },
+  "homepage": "https://github.com/PBeginDev/serviceWeb-labo01#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.11.2"
+  }
+}
